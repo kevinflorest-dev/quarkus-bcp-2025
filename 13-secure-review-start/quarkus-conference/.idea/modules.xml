@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/quarkus-conference.iml" filepath="$PROJECT_DIR$/.idea/quarkus-conference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speaker/speaker.iml" filepath="$PROJECT_DIR$/speaker/speaker.iml" />
     </modules>
   </component>
 </project>
